@@ -1,4 +1,54 @@
 {
   "version": 1,
-  "images": []
+  "images": [
+    {
+      "id": "cozy-shack",
+      "name": "Cozy Shack",
+      "file": "images/cozy-shack.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "mountain-top-shack",
+      "name": "Mountain Top Shack",
+      "file": "images/mountain-top-shack.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "recording-console",
+      "name": "Recording Console",
+      "file": "images/recording-console.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "satellite",
+      "name": "Satellite",
+      "file": "images/satellite.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "space-shack",
+      "name": "Space Shack",
+      "file": "images/space-shack.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "world-map",
+      "name": "World Map",
+      "file": "images/world-map.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "zeus-god",
+      "name": "Zeus God",
+      "file": "images/zeus-god.png",
+      "width": 1448,
+      "height": 1086
+    }
+  ]
 }
