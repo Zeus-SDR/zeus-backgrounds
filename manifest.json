@@ -6,49 +6,56 @@
       "name": "Cozy Shack",
       "file": "images/cozy-shack.png",
       "width": 1448,
-      "height": 1086
+      "height": 1086,
+      "thumb": "thumbs/cozy-shack.jpg"
     },
     {
       "id": "mountain-top-shack",
       "name": "Mountain Top Shack",
       "file": "images/mountain-top-shack.png",
       "width": 1448,
-      "height": 1086
+      "height": 1086,
+      "thumb": "thumbs/mountain-top-shack.jpg"
     },
     {
       "id": "recording-console",
       "name": "Recording Console",
       "file": "images/recording-console.png",
       "width": 1672,
-      "height": 941
+      "height": 941,
+      "thumb": "thumbs/recording-console.jpg"
     },
     {
       "id": "satellite",
       "name": "Satellite",
       "file": "images/satellite.png",
       "width": 1448,
-      "height": 1086
+      "height": 1086,
+      "thumb": "thumbs/satellite.jpg"
     },
     {
       "id": "space-shack",
       "name": "Space Shack",
       "file": "images/space-shack.png",
       "width": 1448,
-      "height": 1086
+      "height": 1086,
+      "thumb": "thumbs/space-shack.jpg"
     },
     {
       "id": "world-map",
       "name": "World Map",
       "file": "images/world-map.png",
       "width": 1448,
-      "height": 1086
+      "height": 1086,
+      "thumb": "thumbs/world-map.jpg"
     },
     {
       "id": "zeus-god",
       "name": "Zeus God",
       "file": "images/zeus-god.png",
       "width": 1448,
-      "height": 1086
+      "height": 1086,
+      "thumb": "thumbs/zeus-god.jpg"
     }
   ]
 }
