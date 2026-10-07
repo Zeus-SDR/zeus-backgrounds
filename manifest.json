@@ -64,6 +64,22 @@
       "width": 1920,
       "height": 800,
       "thumb": "thumbs/back_to_the_future.jpg"
+    },
+    {
+      "id": "microphone",
+      "name": "Microphone",
+      "file": "images/microphone.jpg",
+      "width": 1672,
+      "height": 941,
+      "thumb": "thumbs/microphone.jpg"
+    },
+    {
+      "id": "santa",
+      "name": "Santa",
+      "file": "images/santa.jpg",
+      "width": 1672,
+      "height": 941,
+      "thumb": "thumbs/santa.jpg"
     }
   ]
 }
