@@ -80,6 +80,14 @@
       "width": 1672,
       "height": 941,
       "thumb": "thumbs/santa.jpg"
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "file": "images/halloween.jpg",
+      "width": 1536,
+      "height": 1024,
+      "thumb": "thumbs/halloween.jpg"
     }
   ]
 }
